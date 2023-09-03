@@ -40,6 +40,8 @@
       flex-direction: column;
     }
     .case {
+      overflow-x: hidden;
+
       position: relative;
       background: $black;
       cursor: pointer;
